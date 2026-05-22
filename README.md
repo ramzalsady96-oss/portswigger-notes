@@ -26,4 +26,3 @@
 ## مثال:
 ```html
 <script>alert('XSS')</script>
-
