@@ -1,5 +1,3 @@
-README.md
-
 # portswigger-notes
 
 هذا المشروع يحتوي على ملاحظاتي في مجال الأمن السيبراني، خصوصاً دروس PortSwigger.
